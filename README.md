@@ -82,8 +82,7 @@ Esta é uma API simples criada com **Node.js** e **Express** para cadastrar her�
 ```
 
 ## Autor
-👤 **Felipe**
-- **GitHub:** [github.com/seuusuario](https://github.com/felinharess)
+Desenvolvido por [Felipe Linhares Domingues](https://github.com/felinharess)
 
 Vamos construir algo incrível juntos! 🚀
 
